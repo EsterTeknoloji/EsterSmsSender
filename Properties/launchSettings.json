@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ester.Sms.Sender": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
